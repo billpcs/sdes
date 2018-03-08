@@ -1,0 +1,22 @@
+::Benchmark encrypt/decrypt xor array::
+cores: 8
+hostname: ngt
+name: OpenJDK 64-Bit Server VM
+osArch: amd64
+osName: Linux
+vendor: Oracle Corporation
+version: 25.151-b12
+Parameters(size -> 1000): 44.781886
+Parameters(size -> 1100): 50.641937
+Parameters(size -> 1200): 55.457069
+Parameters(size -> 1300): 58.885427
+Parameters(size -> 1400): 63.822365
+Parameters(size -> 1500): 68.10101
+Parameters(size -> 1600): 73.17395
+Parameters(size -> 1700): 80.155112
+Parameters(size -> 1800): 90.966661
+Parameters(size -> 1900): 96.322099
+Parameters(size -> 2000): 98.584612
+
+
+Process finished with exit code 0
