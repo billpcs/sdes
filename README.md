@@ -42,3 +42,5 @@ Run all the tests with:
 ```
 $ sbt test
 ```
+
+A blog post with some more details [here](https://billpcs.github.io/2018/03/sdes-in-scala.html)
